@@ -1,0 +1,528 @@
+ /* this is the main*/
+
+@font-face {
+    font-family: 'manropeextralight';
+    src: url('../../web/font/manrope-variablefont_wght-webfont.woff2') format('woff2'), url('../../web/font/manrope-variablefont_wght-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'manropeextralight';
+    margin: 0px;
+}
+
+.section.padding {
+    margin-top: 35px;
+}
+
+.section.padding.crem {
+    background-color: #faf5f1;
+}
+
+.section {
+    width: 100%;
+    float: left;
+}
+
+.section .box {
+    width: 65%;
+    margin: 0 auto;
+}
+
+.section .box .next {
+    width: 50%;
+    float: left;
+}
+
+p {
+    color: lightslategray;
+}
+
+h1,
+h3 {
+    color: black;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+/* this is the main end*/
+
+
+/* this is the menu start*/
+
+.section.black {
+    background-color: black;
+}
+
+.section.black .box .next {
+    float: left;
+    width: 50%;
+}
+
+.section.black .box .next ul li {
+    display: inline-block;
+    padding: 8px;
+}
+
+.section.black .box .next ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+
+/*2section none style*/
+
+
+/*3section start*/
+
+.section.padding .box .next a {
+    border: 1px solid;
+    color: wheat;
+    border-color: wheat;
+    padding: 12px;
+    text-decoration: none;
+}
+
+
+/*3 section end*/
+
+
+/*4section start*/
+
+.section.padding.crem .box {
+    padding-top: 43px;
+}
+
+.section.padding.crem .box .icon {
+    text-align: center;
+}
+
+.section.padding.crem .box .icon {
+    width: 25%;
+    float: left;
+}
+
+.section.padding.crem .box .icon h3,
+.section.padding.crem .box .icon p {
+    text-align: center;
+}
+
+.section.padding.crem .box .icon img {
+    padding-right: 52px;
+}
+
+
+/*4 section end*/
+
+
+/*5 section start*/
+
+.section.padding .box .next ul {
+    text-decoration: none;
+    padding-left: 17px;
+}
+
+
+/*5 section end*/
+
+
+/*6 section start*/
+
+.section.padding.crem .box .next .a {
+    width: 45%;
+    float: left;
+}
+
+
+/*6 section end*/
+
+
+/* 7section start*/
+
+.section.padding .box .b {
+    width: 33.33%;
+    float: left;
+}
+
+.section.padding .box .b .c ul {
+    padding-left: 12px;
+}
+
+
+/*7section end*/
+
+
+/* about.html start*/
+
+
+/*menu start*/
+
+.section.black.d .box .next a {
+    color: lightslategray;
+}
+
+
+/*menu end*/
+
+
+/*2section start*/
+
+.section.padding .box .next .e {
+    width: 100%;
+    float: left;
+}
+
+.section.padding .box .next .e .f {
+    padding-right: 15px;
+}
+
+
+/*2section end*/
+
+
+/*3section start*/
+
+.section.padding.crem .box .next .g {
+    width: 48%;
+    float: right;
+}
+
+.section.padding.crem .box .next .h {
+    width: 100%;
+    float: left;
+}
+
+.section.padding.crem .box .next .h.i {
+    width: 50%;
+}
+
+
+/*3section end*/
+
+
+/*4 section start*/
+
+.section.padding .box .next .aa a {
+    display: inline-block;
+}
+
+
+/*4 section end*/
+
+
+/*5 section start*/
+
+.section.coffee {
+    background-image: url('../image/about\ img/testimonials.jpg')
+}
+
+.section.coffee .box {
+    width: 40%;
+    margin: 0 auto;
+}
+
+.section.coffee .box h3,
+.section.coffee .box h1,
+.section.coffee .box p {
+    color: wheat;
+}
+
+.section.coffee .box h3 {
+    text-align: center;
+}
+
+
+/*5 section end*/
+
+
+/*6 Ssection start*/
+
+.section.padding .box .tow {
+    width: 100%;
+    float: left;
+}
+
+.section.padding .box .tow p,
+.section.padding .box .tow h3,
+.section.padding .box .tow h1 {
+    text-align: center;
+}
+
+.section.padding .box .tow .people {
+    width: 23%;
+    display: inline-block;
+    padding-right: 17px;
+}
+
+
+/*6 section end*/
+
+
+/*about us end*/
+
+
+/*contact us start*/
+
+
+/*3section start*/
+
+.section.padding.center .box h1,
+.section.padding.center .box p {
+    text-align: center;
+}
+
+
+/*3section end*/
+
+
+/*4section start*/
+
+.section.padding .box .next.c .a {
+    width: 100%;
+    float: left;
+}
+
+.section.padding .box .next.c .a .image {
+    width: 15%;
+    float: left;
+}
+
+.section.padding .box .next.c .a .contant {
+    width: 55%;
+    float: left;
+    padding-left: 20px;
+}
+
+.section.padding .box .next.form .form1 {
+    width: 48%;
+    float: left;
+}
+
+.section.padding .box .next.form .form2,
+.section.padding .box .next.form .form3 {
+    width: 100%;
+    float: left;
+    padding-top: 26px;
+}
+
+.section.padding .box .next.form label {
+    font-weight: bold;
+    padding-top: 8px;
+}
+
+.section.padding .box .next.form input {
+    width: 100%;
+}
+
+.section.padding .box .next.form .form1.o {
+    padding-right: 18px;
+}
+
+.section.padding .box .next.form .form3 input {
+    height: 120px;
+}
+
+
+/*4 section end*/
+
+
+/*6 section start*/
+
+.section .map {
+    width: 83%;
+    float: left;
+}
+
+.section .map_time {
+    width: 17%;
+    float: left;
+}
+
+.section .map_time .date,
+.section .map_time .time {
+    width: 50%;
+    float: left;
+    padding-bottom: 22px;
+}
+
+
+/*56section end*/
+
+
+/*7 section start*/
+
+.section.black.f {
+    background-color: #111111;
+}
+
+.section.black.f .box .s {
+    float: left;
+}
+
+.section.black.f .box .s h3 {
+    color: white;
+}
+
+.section.black.f .box .s.Contact_Us {
+    width: 30%;
+}
+
+.section.black.f .box .s.Featured_Links {
+    width: 20%;
+}
+
+.section.black.f .box .s.Newsletter {
+    width: 30%;
+}
+
+.section.black.f .box .s.Newsletter input,
+.section.black.f .box .s.Newsletter img {
+    float: left;
+}
+
+.section.black.f .box .s.Quick_Links {
+    width: 20%;
+}
+
+.section.black.f .box .s.Quick_Links h3 {
+    padding-right: 0px;
+}
+
+
+/*7section end*/
+
+
+/*contact us end*/
+
+
+/*gallery start*/
+
+
+/*3section start*/
+
+.section.center p,
+.section.center h1 {
+    text-align: center;
+}
+
+
+/*3section end*/
+
+
+/*4 section start*/
+
+.section.padding .box .gallery {
+    width: 33.33%;
+    float: left;
+}
+
+
+/*4 section end*/
+
+
+/*gallery end*/
+
+
+/*news start*/
+
+
+/*4 section start*/
+
+.section.padding .box .next.space p,
+.section.padding .box .next.space h1,
+.section.padding .box .next.space a {
+    padding-left: 12px;
+}
+
+.section.padding .box .next.space a {
+    border: 2px solid;
+    border-color: chocolate;
+    color: chocolate;
+}
+
+
+/*4 section end*/
+
+
+/*5 section start*/
+
+.section.padding .box .news_block .image,
+.section.padding .box .news_block .data {
+    width: 50%;
+    float: left;
+}
+
+.section.padding .box .news_block {
+    width: 50%;
+    float: left;
+    padding-top: 23px;
+}
+
+.section.padding .box .news_block .data h3,
+.section.padding .box .news_block .data p,
+.section.padding .box .news_block .data a {
+    padding-left: 12px;
+}
+
+.section.padding .box .news_block .data a {
+    color: chocolate;
+    font-weight: bold;
+}
+
+
+/*5 section end*/
+
+
+/* news read more start*/
+
+
+/* news read more end*/
+
+
+/*news end*/
+
+
+/*menu start*/
+
+
+/*4 section start*/
+
+.section.padding .box .shape {
+    width: 50%;
+    float: left;
+    padding-bottom: 20px;
+}
+
+.section.padding .box .shape .image {
+    width: 33%;
+    float: left;
+}
+
+.section.padding .box .shape .letter {
+    width: 56%;
+    float: left;
+}
+
+.section.padding .box .shape .letter h3,
+.section.padding .box .shape .letter h4 {
+    display: inline-block;
+}
+
+.section.padding .box .shape .letter h4 {
+    color: chocolate;
+}
+
+.section.padding .box .shape .letter p {
+    border-top: 2px dotted;
+    padding-top: 12px;
+}
+
+
+/*4 section end*/
+
+
+/*menu end*/
